@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "question": "In what year did Jamie & Claire first meet?",
+            "answers": [
+            "1743",
+            "1742",
+            "1741",
+            "1744"
+            ]
+        },
+        {
+            "question": "How many years were Jamie & Claire separated for?",
+            "answers": [
+            "20",
+            "15",
+            "10",
+            "5"
+            ]
+        },
+        {
+            "question": "Which of the following is not one of Jamie's middle names?",
+            "answers": [
+            "Grant",
+            "Malcolm",
+            "Alexander",
+            "Mackenzie"
+            ]
+        },
+        {
+            "question": "What is the name of Claire and Brianna's dog?",
+            "answers": [
+            "Smokey",
+            "Blackie",
+            "Bluey",
+            "Goldie"
+            ]
+        },
+        {
+            "question": "When is Claire's birthday?",
+            "answers": [
+            "October 20th 1918",
+            "October 22nd 1916",
+            "October 21st 1918",
+            "October 19th 1917"
+            ]
+        },
+        {
+            "question": "As of Go Tell the Bees That I Am Gone, how many children have Fergus and Marsali had?",
+            "answers": [
+            "6",
+            "5",
+            "3",
+            "1"
+            ]
+        },
+        {
+            "question": "How many siblings did Jamie have?",
+            "answers": [
+            "3",
+            "2",
+            "1",
+            "4"
+            ]
+        },
+        {
+            "question": "Where did Jamie and Claire first arrive in when they reached America?",
+            "answers": [
+            "Georgia",
+            "North Carolina",
+            "Virginia",
+            "New York"
+            ]
+        }
+    ]
+}
